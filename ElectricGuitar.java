@@ -4,7 +4,7 @@ public class ElectricGuitar extends StringedInstrument{
 	
 	public ElectricGuitar(){
 	
-		this.field_name = "Guitar";
+	this.field_name = "Guitar";
         this.numberOfStrings = 3;
 		
 	}
